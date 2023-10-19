@@ -57,7 +57,7 @@ Loaded modules:
 00005DAF0000 BoschDNSSDNSP.dll
 00005DAC0000 dnssd.dll
 000180000000 mdnsNSP.dll
-0000006D0000 dante_dnssd.dll
+000000EB0000 dante_dnssd.dll
 7FFA1E090000 rasadhlp.dll
 7FFA20A30000 fwpuclnt.dll
 7FFA1A6C0000 SAMCLI.DLL
